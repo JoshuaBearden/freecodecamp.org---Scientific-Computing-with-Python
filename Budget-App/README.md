@@ -1,5 +1,5 @@
+<div class="challenge-title"><div class="title-text"><h1>Budget App</h1></div></div>
 <div class="challenge-instructions"><div><section id="description">
-<p>You will be <a href="https://replit.com/github/freeCodeCamp/boilerplate-budget-app" target="_blank" rel="noopener noreferrer nofollow">working on this project with our Replit starter code</a>.</p>
 </section></div><hr><div><section id="instructions">
 <p>Complete the <code>Category</code> class in <code>budget.py</code>. It should be able to instantiate objects based on different budget categories like <em>food</em>, <em>clothing</em>, and <em>entertainment</em>. When objects are created, they are passed in the name of the category. The class should have an instance variable called <code>ledger</code> that is a list. The class should also contain the following methods:</p>
 <ul>
